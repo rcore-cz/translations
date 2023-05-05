@@ -1,13 +1,11 @@
 {
-  "es": {
-    "save_success": "¡Tu ropa se ha guardado exitosamente!",
-    "save_success_title": "¡Guardado!",
-    "diff_name": "Elige otro nombre para tu ropa.",
-    "no_money": "No tienes suficiente dinero para este atuendo, prueba otro método de pago",
-    "thx_buy": "¡Gracias por tu compra!",
-    "success_buy": "¡Has comprado con éxito ropa nueva! ¡Gracias por tu compra y que tengas un buen día!",
-    "delete_success": "¡Has desechado el atuendo viejo con éxito!",
-    "delete_outfit": "Eliminar atuendo",
-    "dress_up": "Vestir"
-  }
+  "save_success": "¡Tu ropa se ha guardado exitosamente!",
+  "save_success_title": "¡Guardado!",
+  "diff_name": "Elige otro nombre para tu ropa.",
+  "no_money": "No tienes suficiente dinero para este atuendo, prueba otro método de pago",
+  "thx_buy": "¡Gracias por tu compra!",
+  "success_buy": "¡Has comprado con éxito ropa nueva! ¡Gracias por tu compra y que tengas un buen día!",
+  "delete_success": "¡Has desechado el atuendo viejo con éxito!",
+  "delete_outfit": "Eliminar atuendo",
+  "dress_up": "Vestir"
 }
